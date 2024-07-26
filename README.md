@@ -1,4 +1,4 @@
-# La_vie_des_plantes - CRÉEZ UN SITE VITRINE AVEC WORDPRESS (+partie e-commmerce)
+# La_vie_des_plantes - CRÉEZ UN SITE VITRINE AVEC WORDPRESS (+partie e-commerce)
 
 - Adresse mail: mignomarine@gmail.com
 - Mot de passe: pVa@fcfbqOMpXk8aQDC5F@fn
